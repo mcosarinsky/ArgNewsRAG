@@ -3,3 +3,5 @@ googlenewsdecoder
 newspaper3k 
 lxml_html_clean 
 tqdm
+python-dotenv
+google-generativeai
