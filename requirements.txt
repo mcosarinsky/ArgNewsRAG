@@ -5,3 +5,6 @@ lxml_html_clean
 tqdm
 python-dotenv
 google-generativeai
+transformers 
+torch
+einops
