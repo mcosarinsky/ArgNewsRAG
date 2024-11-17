@@ -8,4 +8,5 @@ google-generativeai
 transformers 
 torch
 einops
-groq
+evaluate
+rouge_score
