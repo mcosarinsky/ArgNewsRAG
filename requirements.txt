@@ -10,3 +10,5 @@ torch
 einops
 evaluate
 rouge_score
+nltk 
+bert_score
