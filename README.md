@@ -1,6 +1,6 @@
 # ArgNewsRAG
 
-This repository contains the implementation of a Retrieval-Augmented Generation (RAG) system for answering questions based on Argentine news articles. The system combines dense retrieval with a language model to enhance response accuracy by leveraging external knowledge.
+This repository contains the implementation of a Retrieval-Augmented Generation (RAG) system for answering questions based on argentinian news articles. The system combines dense retrieval with a language model to enhance response accuracy by leveraging external knowledge.
 
 ## 📁 Repository Structure
 
